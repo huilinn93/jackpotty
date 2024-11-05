@@ -1,6 +1,6 @@
 <template>
   <div class="card">
-    <div>{{ randomWord }}</div>
+    <div>{{ randomWord }} 234hufdsf</div>
   </div>
 </template>
 
